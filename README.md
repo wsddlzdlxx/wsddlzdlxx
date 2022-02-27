@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wsddlzdlxx
+- 👋 Hello, I’m @wsddlzdlxx
 - 🌱 I’m currently learning Neural Networks and Deep Learning.
 <!---
 wsddlzdlxx/wsddlzdlxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
